@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="rectangle" type="yaw_printer" name="yaw_printer" output="screen"/>
+</launch>

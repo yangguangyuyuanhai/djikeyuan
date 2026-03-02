@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="rectangle" type="detection" name="detection" output="screen"/>
+</launch>
