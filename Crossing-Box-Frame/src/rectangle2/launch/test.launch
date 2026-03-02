@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="rectangle2" type="mytest" name="mytest" output="screen"/>
+</launch>

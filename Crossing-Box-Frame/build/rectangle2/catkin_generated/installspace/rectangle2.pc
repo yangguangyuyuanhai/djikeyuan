@@ -1,0 +1,8 @@
+prefix=/home/cwkj/workspace/Crossing-Box-Frame/install
+
+Name: rectangle2
+Description: Description of rectangle2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

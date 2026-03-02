@@ -1,0 +1,2 @@
+rectangle2
+-DCATKIN_DEVEL_PREFIX=/home/cwkj/workspace/Crossing-Box-Frame/devel -DCMAKE_INSTALL_PREFIX=/home/cwkj/workspace/Crossing-Box-Frame/install -G Unix Makefiles
